@@ -1,1 +1,1 @@
-i'am ALX student SWE 
+i'am a software engineer alx student
